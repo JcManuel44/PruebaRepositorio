@@ -1,0 +1,5 @@
+/workspaces/PruebaRepositorio/obj/Debug/net10.0/PruebaRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PruebaRepositorio/obj/Debug/net10.0/PruebaRepositorio.AssemblyInfoInputs.cache
+/workspaces/PruebaRepositorio/obj/Debug/net10.0/PruebaRepositorio.AssemblyInfo.cs
+/workspaces/PruebaRepositorio/obj/Debug/net10.0/PruebaRepositorio.csproj.CoreCompileInputs.cache
+/workspaces/PruebaRepositorio/obj/Debug/net10.0/PruebaRepositorio.sourcelink.json
